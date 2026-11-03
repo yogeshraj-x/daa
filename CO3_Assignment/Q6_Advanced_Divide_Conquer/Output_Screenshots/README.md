@@ -1,0 +1,1 @@
+Run median_of_medians.py and meet_in_the_middle.py. Save genuine captures as q6_median_of_medians.png and q6_meet_in_middle.png. Compare selection to sorted(a)[k] and subset sum to brute force on positive and negative cases.
