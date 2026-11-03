@@ -1,0 +1,1 @@
+Run the Q1 solution in a terminal and save the genuine capture as q1_execution.png. Also capture comparison counts for increasing n. This folder currently contains instructions, not a screenshot.
