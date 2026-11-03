@@ -1,0 +1,1 @@
+Run solution.py and save genuine terminal capture as q2_execution.png. Record repeated timing medians separately; a single wall-clock run is not reliable evidence.
