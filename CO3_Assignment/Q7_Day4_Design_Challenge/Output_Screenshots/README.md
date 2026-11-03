@@ -1,0 +1,1 @@
+Run solution.py and save genuine terminal capture as q7_execution.png. Add a comparison against brute force on increasing sizes and retain sorted, reverse-sorted and duplicate-heavy tests.
