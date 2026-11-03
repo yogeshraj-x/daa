@@ -1,0 +1,1 @@
+Run solution.py and capture genuine output as q4_execution.png. Test square sizes 1,2,3,5 and a rectangular matrix. Record repeated timing and padding overhead; no crossover is assumed in advance.
