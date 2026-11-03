@@ -1,0 +1,1 @@
+Run solution.py and capture genuine output as q3_execution.png. For crossover, benchmark multiple digit lengths with repeated trials. Python's built-in multiplication is optimized, so this pedagogical version may not beat it.
