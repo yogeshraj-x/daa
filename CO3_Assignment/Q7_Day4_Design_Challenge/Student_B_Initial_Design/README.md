@@ -1,0 +1,1 @@
+Not applicable — no second student was supplied. This directory exists to preserve the requested repository structure; no Student B proposal is fabricated.
