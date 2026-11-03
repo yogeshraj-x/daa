@@ -1,0 +1,3 @@
+# Q5 — Closest Pair of Points
+Sort points by x and y. Base case n<=3: brute-force all pairs. Split at median x; recursively find best pair in each half, with distance d=min(dL,dR). Form the vertical strip |x−splitX|<d in y-order. For each point, inspect only following strip points with y-gap<d; geometric packing bounds relevant neighbours by a constant. Return best pair.
+Recurrence T(n)=2T(n/2)+O(n)=O(n log n) when y-order is maintained linearly. Brute force is Theta(n^2). The strip matters because a closest cross-boundary pair may straddle the split; it need not compare all pairs because the minimum-distance invariant limits how many points fit in the relevant neighbourhood.
