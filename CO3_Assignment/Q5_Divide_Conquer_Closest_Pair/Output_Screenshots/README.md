@@ -1,0 +1,1 @@
+Run solution.py and save actual terminal capture as q5_execution.png. Use identical point sets for brute-force and D&C; record distance evaluations and repeated timing medians.
